@@ -1,0 +1,10 @@
+root:x:0:0:root:/Root:/bin/bash
+abc:bash:123
+
+ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
+hello:Hello:helloWorld
+abc:root
+passwd:mail:email
+123:abc:456
+sdmc:aadd:45cvaa6
+shkflalldackfkal

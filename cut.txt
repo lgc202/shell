@@ -1,0 +1,2 @@
+root:x:0:0:root:/Root:/bin/bash
+abc:bash:123
