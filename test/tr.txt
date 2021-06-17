@@ -1,0 +1,21 @@
+ROOT:x:0:0:root:/root:/bin/bash
+bin:x:1:1:bin:/bin:/sbin/nologin
+daemon:x:2:2:daemon:/sbin:/sbin/nologin
+adm:x:3:4:adm:/var/adm:/sbin/nologin
+lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+sync:x:5:0:sync:/sbin:/bin/sync
+shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+halt:x:7:0:halt:/sbin:/sbin/halt
+mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
+uucp:x:10:14:uucp:/var/spool/uucp:/sbin/nologin
+boss02:x:516:511::/home/boss02:/bin/bash
+vip:x:517:517::/home/vip:/bin/bash
+stu1:x:518:518::/home/stu1:/bin/bash
+mailnull:x:47:47::/var/spool/mqueue:/sbin/nologin
+smmsp:x:51:51::/var/spool/mqueue:/sbin/nologin
+aaaaaaaaaaaaaaaaaaaa
+bbbbbb111111122222222222233333333cccccccc
+hello world 888
+666
+777
+999
